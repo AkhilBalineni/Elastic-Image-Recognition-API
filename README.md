@@ -5,25 +5,16 @@ This project was built as part of CSE 546 Cloud Computing. The goal was to desig
 What I Did:
 
 Designed a cloud based image recognition workflow with event driven architecture
-
 Implemented auto scaling to dynamically spin up or terminate EC2 instances based on queue load
-
 Built a queue based communication system to manage image processing tasks
-
 Integrated AWS Rekognition to analyze images and extract labels
-
 Stored processed outputs and metadata in S3 with structured access
 
 Tools and Technologies:
 
 AWS EC2
-
 AWS S3
-
 AWS SQS
-
 AWS Rekognition
-
 Python
-
 NodeJS
